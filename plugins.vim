@@ -10,6 +10,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Better Syntax Support
     Plug 'sheerun/vim-polyglot'
 
+    " Git integration
+    Plug 'mhinz/vim-signify'
+
     " Clojure stuff
     Plug 'dmac/vim-cljfmt'
     Plug 'guns/vim-sexp'
