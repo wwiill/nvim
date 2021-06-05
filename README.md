@@ -1,7 +1,7 @@
 Cheatsheet
 ---
-Goto definition: gd
-Goto previous: Ctrl-o
-Goto next: Ctrl-i
-Evaluate expression: ,ee
+- Goto definition: `gd`
+- Goto previous: `ctrl-o`
+- Goto next: `ctrl-i`
+- Evaluate expression: `,ee`
 
