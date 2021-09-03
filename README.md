@@ -1,3 +1,11 @@
+nvim setup for Clojure which features the [clojure-lsp](https://clojure-lsp.io) and [neoclide/coc](https://github.com/neoclide/coc.nvim).
+
+## Files
+- `init.vim` This is the entry point.
+- `plugins.vim` All plugins are listed here.
+- `settings.vim` Global vim settings here.
+- `settings/*` Contain settings for individual plugins.
+
 ## Installation
 ```
 ## neovim
