@@ -34,4 +34,4 @@ On first run of nvim, install plugins with `:PlugInstall`
 - Goto previous: `ctrl-o`
 - Goto next: `ctrl-i`
 - Evaluate expression: `,ee`
-
+- Format code: `!a(zprint` (will format code between parens the `(...)` - assumes zprint is available on the PATH)
